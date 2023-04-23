@@ -12,9 +12,7 @@ export default function Navbar(props) {
             />
             <h3 className="nav--logo_text">ReactFacts</h3>
             
-            <div 
-                className="toggler" 
-            >
+            <div className="toggler">
                 <p className="toggler--light">Light</p>
                 <div 
                     className="toggler--slider"
